@@ -1,6 +1,6 @@
 # mnemonic-cracker
 
-```
+```bash
 > mnemonic-cracker -h
 
 OVERVIEW: A simple tool to try and find a mnemonic phrase from a partial
@@ -54,6 +54,6 @@ OPTIONS:
 
 ## TODO
 
-[X] Concurrently brute-force mnemonic phrases
-[ ] Use GPU for computation
-[ ] Add possibility to run a subset of the computation, i.e. separate workers in separate machines computing different parts of the same mnemonic phrases data set.
+- [X] ~~Concurrently brute-force mnemonic phrases~~
+- [ ] Use GPU for computation
+- [ ] Add possibility to run a subset of the computation, i.e. separate workers in separate machines computing different parts of the same mnemonic phrases data set.
