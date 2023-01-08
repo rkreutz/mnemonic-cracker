@@ -51,3 +51,9 @@ OPTIONS:
   -h, --help              Show help information.
 
 ```
+
+## TODO
+
+[X] Concurrently brute-force mnemonic phrases
+[ ] Use GPU for computation
+[ ] Add possibility to run a subset of the computation, i.e. separate workers in separate machines computing different parts of the same mnemonic phrases data set.
